@@ -52,3 +52,14 @@
 [![WebGL Line Renderer](https://github-stats-extended.vercel.app/api/pin/?username=Damienb123&repo=WebGL-line-renderer&theme=tokyonight&hide_border=true)](https://github.com/Damienb123/WebGL-line-renderer)
 
 </div>
+
+---
+### GitHub Stats
+<div align="center">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damienb123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+    <img src="https://streak-stats.demolab.com?user=Damienb123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+  
+</div>
